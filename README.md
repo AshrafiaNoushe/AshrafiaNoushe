@@ -10,17 +10,37 @@ Currently pursuing a degree in CSE with interests in Competitive Programming and
 
 ---
 
+<div align="center">
+
 # GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AshrafiaNoushe&theme=tokyonight)](https://git.io/streak-stats)
 
+</div>
+
 ---
+
+<div align="center">
 
 # GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=AshrafiaNoushe&show_icons=true&theme=tokyonight" />
 
+</div>
+
 ---
+
+<div align="center">
+
+# Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafiaNoushe&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
 
 # Tech Stack
 
@@ -31,23 +51,31 @@ Currently pursuing a degree in CSE with interests in Competitive Programming and
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
+</div>
+
 ---
+
+<div align="center">
 
 # Currently Learning
 
-- Frontend Development
-- Data Structures & Algorithms
-- JavaScript
-- React
-- Problem Solving
+Frontend Development • DSA • JavaScript • React • Problem Solving
+
+</div>
 
 ---
+
+<div align="center">
 
 # GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AshrafiaNoushe&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
+
 ---
+
+<div align="center">
 
 # Connect With Me
 
@@ -59,8 +87,14 @@ Currently pursuing a degree in CSE with interests in Competitive Programming and
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/ashuu1029)
 
+</div>
+
 ---
+
+<div align="center">
 
 # Profile Visitors
 
 ![](https://komarev.com/ghpvc/?username=AshrafiaNoushe&color=blue)
+
+</div>
