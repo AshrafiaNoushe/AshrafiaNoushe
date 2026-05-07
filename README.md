@@ -22,26 +22,6 @@ Currently pursuing a degree in CSE with interests in Competitive Programming and
 
 <div align="center">
 
-# GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=AshrafiaNoushe&show_icons=true&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
-# Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafiaNoushe&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
 # Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
