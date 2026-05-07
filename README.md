@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AshrafiaNoushe/AshrafiaNoushe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180"/>
 
-Here are some ideas to get you started:
+# Hi, I am Ashrafia Noushe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=CSE+Student;Frontend+Learner;Competitive+Programmer;Building+Projects+Everyday)](https://git.io/typing-svg)
+
+Currently pursuing a degree in CSE with interests in Competitive Programming and Frontend Development.
+</div>
+
+---
+
+# GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AshrafiaNoushe&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+# GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshrafiaNoushe&show_icons=true&theme=tokyonight)
+
+---
+
+# Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafiaNoushe&layout=compact&theme=tokyonight)
+
+---
+
+# Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+
+---
+
+# Currently Learning
+
+- Frontend Development
+- Data Structures & Algorithms
+- JavaScript
+- React
+- Problem Solving
+
+---
+
+# GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AshrafiaNoushe&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AshrafiaNoushe)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashrafia-noushe/)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Ashu_uone)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/ashuu1029)
+
+---
+
+# Profile Visitors
+
+![](https://komarev.com/ghpvc/?username=AshrafiaNoushe&color=blue)
