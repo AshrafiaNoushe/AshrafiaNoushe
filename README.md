@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=CSE+Student;Frontend+Learner;Competitive+Programmer;Building+Projects+Everyday)](https://git.io/typing-svg)
 
-Currently pursuing a degree in CSE with interests in Competitive Programming and Frontend Development.
+Currently pursuing a BSc in CSE with interests in Competitive Programming and Frontend Development.
 </div>
 
 ---
@@ -17,13 +17,13 @@ Currently pursuing a degree in CSE with interests in Competitive Programming and
 
 # GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshrafiaNoushe&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=AshrafiaNoushe&show_icons=true&theme=tokyonight" />
 
 ---
 
 # Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafiaNoushe&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafiaNoushe&layout=compact&theme=tokyonight" />
 
 ---
 
