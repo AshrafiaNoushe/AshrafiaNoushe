@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="180"/>
-
 # Hi, I am Ashrafia Noushe
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=CSE+Student;Frontend+Learner;Competitive+Programmer;Building+Projects+Everyday)](https://git.io/typing-svg)
